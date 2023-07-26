@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiRelativeApp</string>
+    <string name="topTitle">Read the following text and answer the questions.</string>
+    <string name="lorem_ipsum_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dictum nibh ac auctor commodo. Proin pretium est at risus malesuada fringilla. Duis et accumsan libero, eget convallis nibh. Aenean id sapien porta, blandit nunc sit amet, cursus massa. Nulla a tristique ipsum. Pellentesque maximus lectus tortor, a rhoncus turpis lobortis et. In iaculis odio vel dolor dignissim, ut volutpat tortor luctus. Sed maximus suscipit neque a convallis.
+Nullam et sem eget erat luctus consequat. Nam vel tortor vel odio vestibulum viverra dapibus in lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam eu libero convallis, volutpat mauris eu, elementum ex. Curabitur ut cursus mi. Fusce egestas turpis risus, at dapibus lectus dapibus id. Aenean ultricies libero a nisl vestibulum, a tincidunt lorem finibus. Cras mattis laoreet convallis.
+Aliqugna lectus, porta mattis leo tempor ut.Praesent feugiat, justo vehicula vestibulum mollis, leo purus dignissim ligula, mollis iaculis erat urna vitae risus. In ullamcorper id nulla quis feugiat. Aliquam ac bibendum sem, eget maximus mauris.</string>
+</resources>
